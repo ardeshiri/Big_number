@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569181137 source:/home/snake/Cods/CodeBlocks/bigN/main.cpp
+	<iostream>
+	"Big_number.h"
+
+1569181230 source:/home/snake/Cods/CodeBlocks/bigN/src/Big_number.cpp
+	"Big_number.h"
+	<algorithm>
+	<iostream>
+
+1569180852 /home/snake/Cods/CodeBlocks/bigN/include/Big_number.h
+	<valarray>
+	<memory>
+
